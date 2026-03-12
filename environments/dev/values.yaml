@@ -2,7 +2,7 @@ replicaCount: 1
 
 image:
   repository: ghcr.io/longnt267/nestjs-argocd
-  tag: "d51cab60858585f68a5a156b130d1428d8817b76"
+  tag: "55eb9b2e4b2e4a3027c754ff8ab99f759baaf22f"
   pullPolicy: Always
 
 resources:
